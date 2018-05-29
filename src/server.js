@@ -1,1 +1,1 @@
-console.log(808000000);
+console.log('sudo');
